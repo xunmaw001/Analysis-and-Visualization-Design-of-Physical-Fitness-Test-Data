@@ -1,0 +1,2 @@
+# Analysis-and-Visualization-Design-of-Physical-Fitness-Test-Data
+该系统基于springboot+vue开发，结合了springboot强大的后端服务能力和vue优秀的前端构建能力。主要用于体质测试数据的分析及可视化设计，能对各类体质测试数据进行高效处理，通过多样化的图表等可视化形式展现数据趋势和特征，辅助用户直观理解数据，有助于分析人员进行科学决策，同时支持数据的存储、查询、修改等操作，提高体质测试数据管理与分析的效率。
