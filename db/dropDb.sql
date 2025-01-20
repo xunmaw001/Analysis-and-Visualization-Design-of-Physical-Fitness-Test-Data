@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS springboot6r8mn;
+
